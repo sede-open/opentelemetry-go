@@ -22,4 +22,3 @@ gen/
 /example/prometheus/prometheus
 /example/zipkin/zipkin
 /example/otel-collector/otel-collector
-
